@@ -1,7 +1,7 @@
 3 components need to be built for the DCU decentralized exchange.  
 
 1. DCU smart contract
-- information we still need from nebulas: nebulas token standard.  Is there something like erc20 on nebulas?
+- issue remaining: ability to do the swap on nrc20 tokens
 
 2. the web ui for user to create buy or sell orders
 - the web ui will create and deploy the contract
