@@ -9,4 +9,3 @@
 
 3. show the available orders to the user
 - uses the api of nebulas full node to find these information.
-- information we still need from nebulas: api for nebulas full node.  whether the api can be used to query all contracts that are similar to a certain contract.
